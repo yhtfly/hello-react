@@ -1,0 +1,19 @@
+{
+	"react_component_template":{
+		"prefix":"Mycomponent",
+		"body": [
+			"import React,{Component} from 'react'",
+
+			"export default class App extends Component{",
+
+    		"\trender(){",
+        	"\t\treturn (",
+            "\t\t\t<div>",
+            "\t\t\t</div>",
+        	"\t\t)",
+    		"\t}",
+			"}",
+		],
+		"description": "react学习用的模板"
+	}
+}
